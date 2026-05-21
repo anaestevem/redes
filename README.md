@@ -1,4 +1,4 @@
-# redesTOPOLOGIA DE REDE
+# redes TOPOLOGIA DE REDE
 
 ESTRELA
 Todos os dispositivos (computadores, impressoras, servidores) conectam-se individualmente a um nó central (geralmente um switch ou roteador) é uma estrutura de rede em que cada dispositivo e ponto de conexão estão conectados a um hub central.
